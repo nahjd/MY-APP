@@ -1,16 +1,13 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; */
 
-.home {
-  position: relative;
-  top: 400px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 0 auto;
-  font-size: 40px;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+
 /* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -34,19 +31,3 @@ body {
     )
     rgb(var(--background-start-rgb));
 } */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-.author {
-  position: relative;
-  left: 350px;
-  margin: 0 auto;
-  font-size: 45px;
-  margin-top: 15px;
-}
-.text {
-  margin-top: 25px;
-}

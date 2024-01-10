@@ -1,0 +1,19 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  .search-selectGender {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .cards {
+    padding: 20px 0;
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}

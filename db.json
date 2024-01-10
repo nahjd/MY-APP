@@ -2,31 +2,48 @@
   "users": [
     {
       "id": 1,
+      "isDead": false,
+      "birth": 1976,
       "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSpj56ZHu--rSzpHSGEUbJUCshy14wtFw3Tn-UcpsKCcx1w4cboDRAWB2diZb3fVJTTDYObrpzqi5qWe8Y",
       "name": "Joanne Rowling",
-      "Genre": "Fantasy",
-      "Gender": "Female"
+      "genre": "fantasy",
+      "gender": "female"
     },
     {
       "id": 2,
+      "isDead": false,
+      "birth": 1978,
       "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-187751114.jpg",
       "name": "Stephen Kinggggg",
-      "Genre": "Horror",
-      "Gender": "Male"
+      "genre": "Horror",
+      "gender": "Male"
     },
     {
       "id": 3,
+      "isDead": false,
+      "birth": 1978,
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kobe_Bryant_2014.jpg/640px-Kobe_Bryant_2014.jpg",
       "name": "Kobe Bryant",
-      "Genre": "Basketball",
-      "Gender": "Male"
+      "genre": "Basketball",
+      "gender": "Male"
     },
     {
-      "id": 4,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kobe_Bryant_2014.jpg/640px-Kobe_Bryant_2014.jpg",
-      "name": "Kobe Bryant",
-      "Genre": "Basketball",
-      "Gender": "Male"
+      "id": 5,
+      "name": "Nahid",
+      "gender": "male",
+      "image": "https://static01.nyt.com/images/2022/12/30/multimedia/30soccer-ronaldo-1-76fd/30soccer-ronaldo-1-76fd-mediumSquareAt3X.jpg",
+      "birth": 2004,
+      "isDead": false,
+      "genre": "male"
+    },
+    {
+      "id": "ae57a5cd-daf3-4fe5-bda8-fe2335cbcb6e",
+      "name": "Seid",
+      "gender": "male",
+      "image": "https://i.pinimg.com/236x/30/bf/d1/30bfd16e08a2bfa5af3452739a90348c.jpg",
+      "birth": 2007,
+      "isDead": false,
+      "genre": true
     }
   ]
 }
