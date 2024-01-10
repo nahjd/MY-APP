@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSpj56ZHu--rSzpHSGEUbJUCshy14wtFw3Tn-UcpsKCcx1w4cboDRAWB2diZb3fVJTTDYObrpzqi5qWe8Y",
+      "name": "Joanne Rowling",
+      "Genre": "Fantasy",
+      "Gender": "Female"
+    },
+    {
+      "id": 2,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-187751114.jpg",
+      "name": "Stephen Kinggggg",
+      "Genre": "Horror",
+      "Gender": "Male"
+    },
+    {
+      "id": 3,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kobe_Bryant_2014.jpg/640px-Kobe_Bryant_2014.jpg",
+      "name": "Kobe Bryant",
+      "Genre": "Basketball",
+      "Gender": "Male"
+    },
+    {
+      "id": 4,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kobe_Bryant_2014.jpg/640px-Kobe_Bryant_2014.jpg",
+      "name": "Kobe Bryant",
+      "Genre": "Basketball",
+      "Gender": "Male"
+    }
+  ]
+}
